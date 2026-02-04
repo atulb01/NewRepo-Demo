@@ -1,2 +1,3 @@
 # NewRepo-Demo
-Git Repository for exercises
+Git Repository for exercises.
+Author- Atul Sharma
